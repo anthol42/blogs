@@ -1,0 +1,16 @@
+[project]
+name = "peptide-split"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "esm>=3.2.3",
+    "jupyterlab>=4.5.7",
+    "numpy>=2.4.4",
+    "pandas>=3.0.2",
+    "qmap-benchmark>=0.1.1",
+    "refnd>=0.0.1",
+    "torch>=2.11.0",
+    "tqdm>=4.67.3",
+]
